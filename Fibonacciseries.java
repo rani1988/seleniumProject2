@@ -1,4 +1,4 @@
-package copyprograms;
+package copyprograms
 
 public class Fibonacciseries {
 	
